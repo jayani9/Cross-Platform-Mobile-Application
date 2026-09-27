@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Jayani Kothalawala</string>
+    <string name="title">Android Developer Extraordinate</string>
+    <string name="phone_number">+35841322678</string>
+    <string name="sharing_link">\@AndroidDev</string>
+    <string name="email">jay.koth@android.com</string>
+</resources>
